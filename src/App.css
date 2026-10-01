@@ -32,7 +32,7 @@ h1 {
 
   padding: 15px 5%;
 
-  background: #222;
+  background: #3292e1;
 }
 
 .logo {
@@ -87,7 +87,7 @@ h1 {
 
   border-radius: 6px;
 
-  background: #222;
+  background: #338dd7;
 
   color: white;
 
@@ -95,7 +95,7 @@ h1 {
 }
 
 .search-container button:hover {
-  background: #444;
+  background: #4784ca;
 }
 
 
